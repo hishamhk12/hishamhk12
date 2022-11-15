@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hishamhk12
-- 👀 I’m interested in reactjs
-- 🌱 I’m currently learning front end
+- 👀 I’m front end devloper
+- 🌱 I’m currently learning express.js 
 - 💞️ I’m looking to collaborate on big project
 - 📫 How to reach me +201093127205
 
